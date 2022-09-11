@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @marina9815
 - 👀 I’m interested in aprender  python
-- 🌱 I’m currently learning a programar
+- 🌱 I’m currently learning to programar
 - 
 - 💞️ I’m looking to collaborate  en diferentes temas 
 - 
